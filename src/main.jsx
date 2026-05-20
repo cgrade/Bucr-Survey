@@ -12,3 +12,4 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 window.addEventListener("load", () => {
   document.getElementById("root").style.visibility = "visible";
 });
+
