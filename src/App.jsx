@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from "react";
 
 // ── PASTE YOUR GOOGLE APPS SCRIPT WEB APP URL HERE ──────────────────────────
 const SHEET_ENDPOINT =
-  "https://script.google.com/macros/s/AKfycbx70p8GHu7k5LNGB709N1qcxvo0hC3K35J9B0S1vhobvYJO3ypi3R3ETZKfrngtkW3y8g/exec";
+  "https://script.google.com/macros/s/AKfycbzx3vy2-_r5196-_nqa__DcOSiv3-ZUYBMrbXnu1vo1VSEJeF9KMSsxGYwCvw0lNSdJGg/exec";
 // ────────────────────────────────────────────────────────────────────────────
 
 const NAVY = "#0f2547";
